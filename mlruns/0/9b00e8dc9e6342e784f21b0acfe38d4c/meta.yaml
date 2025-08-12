@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashdudhane/Desktop/mlflow-test/mlruns/0/9b00e8dc9e6342e784f21b0acfe38d4c/artifacts
+end_time: 1754962725091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b00e8dc9e6342e784f21b0acfe38d4c
+run_name: sassy-croc-736
+run_uuid: 9b00e8dc9e6342e784f21b0acfe38d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754962723138
+status: 3
+tags: []
+user_id: akashdudhane

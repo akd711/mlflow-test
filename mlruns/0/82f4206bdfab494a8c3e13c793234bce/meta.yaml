@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/akashdudhane/Desktop/mlflow-test/mlruns/0/82f4206bdfab494a8c3e13c793234bce/artifacts
+end_time: 1754962392852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f4206bdfab494a8c3e13c793234bce
+run_name: omniscient-stag-242
+run_uuid: 82f4206bdfab494a8c3e13c793234bce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754962391045
+status: 3
+tags: []
+user_id: akashdudhane
